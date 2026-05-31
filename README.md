@@ -35,7 +35,7 @@ adb version
 adb devices
 # emulator-5554   device
 ```
-![Vérification ADB](../screenshots/SS-01.png)
+![Vérification ADB](screenshots/SS-01.png)
 
 ### Déploiement de frida-server
 ```bash
